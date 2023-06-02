@@ -197,7 +197,6 @@ body {
 /* LOGIN PAGE CSS */
 
 #login_main_container {
-  background-color: rgb(235, 230, 230);
   height: 100vh;
   display: flex;
   justify-content: center;
